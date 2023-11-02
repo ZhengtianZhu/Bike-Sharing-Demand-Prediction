@@ -1,5 +1,5 @@
-# data-mining-Bike-Sharing-Demand-Prediction
-2020-北邮
+# Bike-Sharing-Demand-Prediction
+data-mining-2020-BUPT
 
 it is the project from the competition in this link: https://www.kaggle.com/c/bike-sharing-demand/data,
 and I have improved the prediction accuracy by eliminating the input factor named seasons.
